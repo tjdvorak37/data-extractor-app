@@ -1,7 +1,7 @@
-{
-  "image": "mcr.microsoft.com/devcontainers/universal:2",
-  "features": {}
-}
+# {
+  # "image": "mcr.microsoft.com/devcontainers/universal:2",
+  # "features": {}
+# }
 
 import pandas as pd
 import streamlit as st
